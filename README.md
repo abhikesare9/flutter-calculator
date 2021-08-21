@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # flutter-calculator
 
-https://github.com/abhikesare9/flutter-calculator/blob/main/simple%20calculator.mp4
+[demo video](https://github.com/abhikesare9/flutter-calculator/blob/main/simple%20calculator.mp4)
